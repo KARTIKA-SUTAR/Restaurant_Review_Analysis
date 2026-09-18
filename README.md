@@ -2,8 +2,6 @@
 
 A hands-on project demonstrating how to use a pre-trained **transformer model** — Google's **FLAN-T5** — to generate natural-language text from instruction-style prompts, using the Hugging Face `transformers` library and PyTorch.
 
-![Text Generation Pipeline](assets/workflow_diagram.png)
-
 ---
 
 ## 📌 Overview
